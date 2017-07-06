@@ -1,27 +1,16 @@
 {
-    "name": "phpwhois/phpwhois",
-    "description": "phpWhois - library for querying whois services and parsing results. Based on phpwhois.org",
+    "name": "kazist/phpwhois",
+    "description": "kazist Whois - library for querying whois services and parsing results. Based on phpwhois.org",
     "keywords": ["PHP","Whois","phpWhois"],
-    "homepage": "http://phpwhois.pw",
+    "homepage": "http://emshyinnovate.com",
     "type": "library",
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Mark Jeftovic",
-            "email": "markjr@easydns.com"
+            "name": "Dedan Irungu ",
+            "email": "info@emshyinnovate.com"
         },
-        {
-            "name": "David Saez Padros",
-            "email": "david@ols.es"
-        },
-        {
-            "name": "Ross Golder",
-            "email": "ross@golder.org"
-        },
-        {
-            "name": "Dmitry Lukashin",
-            "email": "dmitry@lukashin.ru"
-        }
+        
     ],
     "minimum-stability": "dev",
     "require": {
