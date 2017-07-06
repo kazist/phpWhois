@@ -1,7 +1,7 @@
 {
     "name": "kazist/phpwhois",
     "description": "kazist Whois - library for querying whois services and parsing results. Based on phpwhois.org",
-    "keywords": ["PHP","Whois","phpWhois"],
+    "keywords": ["PHP", "Whois", "phpWhois"],
     "homepage": "http://emshyinnovate.com",
     "type": "library",
     "license": "GPL-2.0",
@@ -10,11 +10,10 @@
             "name": "Dedan Irungu ",
             "email": "info@emshyinnovate.com"
         }
-        
+
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.0",
         "mso/idna-convert": "*"
     },
     "require-dev": {
